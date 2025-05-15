@@ -2,7 +2,6 @@
 
 A modern, user-friendly Flask web application that extracts text from images (PNG, JPG, JPEG, WEBP) using Tesseract OCR. Upload an image, and the app processes it to display the extracted text alongside the image in a beautifully designed interface powered by Bootstrap and custom CSS animations.
 
-![App Screenshot](static/screenshot.png) <!-- Replace with your screenshot -->
 
 ## Features
 - **Multi-Format Support**: Upload images in PNG, JPG, JPEG, or WEBP formats.
